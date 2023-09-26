@@ -14,7 +14,7 @@ export default function navbar(props) {
       <a className="navbar-brand" href="#">{props.Logo}</a>
       <ul className="navbar-nav me-auto mb-2 mb-lg-0">
         <li className="nav-item">
-          <a className="nav-link active" aria-current="page" href="/index.html">Home</a>
+          <a className="nav-link active" aria-current="page" href="#">Home</a>
         </li>
        
         <li className="nav-item">
